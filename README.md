@@ -1,2 +1,2 @@
-# yankora-website
+# yankora
 YANKORA — Hospitality &amp; Supply
